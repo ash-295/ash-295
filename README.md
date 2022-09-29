@@ -31,9 +31,9 @@
 
 <h3 align="left"> Github Profile </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ash-295&show_icons=true&locale=en&layout=compact" alt="ash-295" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ash-295&show_icons=true&locale=en" alt="ash-295" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ash-295&" alt="ash-295" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ash-295&show_icons=true&locale=en&layout=compact" alt="ash-295" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ash-295&show_icons=true&locale=en" alt="ash-295" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ash-295&" alt="ash-295" height="170" />
 </p>
 
 <h1 align="center"> Competative Programming Profiles </h1>
